@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi there, I am Franchezca Vida Banayad!</h1>
 
-<h5 align="left">🚀 Freelance Web Developer | 💻 Aspiring Software & Data Engineer<br>📍 Manila, Philippines | 📬 franchezca.bnyd@gmail.com<br><br>I enjoy building clean, simple, and impactful web apps. I’m passionate about learning, collaborating, and shipping real solutions.</h5>
+<h4 align="left">🚀 Freelance Web Developer | 💻 Aspiring Software & Data Engineer<br>📍 Manila, Philippines | 📬 franchezca.bnyd@gmail.com<br><br>I enjoy building clean, simple, and impactful web apps. I’m passionate about learning, collaborating, and shipping real solutions.</h4>
 
 ## 🔧 Tech Stack
 
