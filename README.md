@@ -2,8 +2,6 @@
 
 <h5 align="left">🚀 Freelance Web Developer | 💻 Aspiring Software & Data Engineer<br>📍 Manila, Philippines | 📬 franchezca.bnyd@gmail.com<br><br>I enjoy building clean, simple, and impactful web apps. I’m passionate about learning, collaborating, and shipping real solutions.</h5>
 
----
-
 ## 🔧 Tech Stack
 
 **Languages:**  
