@@ -1,10 +1,6 @@
 <h1 align="left">👋 Hi there, I am Franchezca Vida Banayad!</h1>
 
-###
-
 <h5 align="left">🚀 Freelance Web Developer | 💻 Aspiring Software & Data Engineer<br>📍 Manila, Philippines | 📬 franchezca.bnyd@gmail.com<br><br>I enjoy building clean, simple, and impactful web apps. I’m passionate about learning, collaborating, and shipping real solutions.</h5>
-
-###
 
 ---
 
@@ -27,8 +23,6 @@
 ![Wix](https://img.shields.io/badge/Wix-000000?style=flat&logo=wix&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
----
-
 ###
 
 <div align="center">
@@ -38,8 +32,6 @@
 
 ###
 
----
-
 ## 📚 Currently Learning
 
 - PostgreSQL & SQL optimization  
@@ -47,8 +39,6 @@
 - Data analytics workflows with Python
 - Front End Frameworks (React, Vue)
 - Backend Languages (PHP, Java)
-
----
 
 ## 📌 Let's Connect
 <div align="center">
@@ -64,7 +54,6 @@
 </div>
 
 ###
----
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/chezca-v/chezca-v/output/snake.svg" alt="Snake animation" />
