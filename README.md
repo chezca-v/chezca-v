@@ -1,9 +1,10 @@
-# 👋 Hi there, I'm Franchezca Banayad!
+<h1 align="left">👋 Hi there, I am Franchezca Vida Banayad!</h1>
 
-🚀 Freelance Web Developer | 💻 Aspiring Software & Data Engineer  
-📍 Manila, Philippines | 📬 franchezca.bnyd@gmail.com
+###
 
-I enjoy building clean, simple, and impactful web apps. I’m passionate about learning, collaborating, and shipping real solutions.
+<h5 align="left">🚀 Freelance Web Developer | 💻 Aspiring Software & Data Engineer<br>📍 Manila, Philippines | 📬 franchezca.bnyd@gmail.com<br><br>I enjoy building clean, simple, and impactful web apps. I’m passionate about learning, collaborating, and shipping real solutions.</h5>
+
+###
 
 ---
 
@@ -28,15 +29,14 @@ I enjoy building clean, simple, and impactful web apps. I’m passionate about l
 
 ---
 
-## 💼 Featured Project
+###
 
-### 🔹 Wais Wallet – Personal Finance Tracker  
-A smart finance app that helps users monitor spending, set saving goals, and build better habits.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chezca-v&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chezca-v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🌐 Live: https://wais-wallet-development.onrender.com/   
-📁 Repo: [View on GitHub](https://github.com/chezca-v/Wais-Wallet-Development)
-
-Built with: `HTML`, `CSS`, `JavaScript`, `Python`, `Django`
+###
 
 ---
 
@@ -51,13 +51,24 @@ Built with: `HTML`, `CSS`, `JavaScript`, `Python`, `Django`
 ---
 
 ## 📌 Let's Connect
+<div align="center">
+  <a href="https://www.instagram.com/chez_zafe/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="franchezca.bnyd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/franchezca-natividad-banayad-25b278261/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 📧 Email: franchezca.bnyd@gmail.com  
-- 🔗 LinkedIn: [Franchezca Natividad Banayad](https://linkedin.com/in/franchezca-banayad)  
-- 🖥️ GitHub: https://github.com/chezca-v  
-- 🌐 Portfolio: https://vidatechservices.wixsite.com/vida  
-- 📄 CV: Contact Me!
-
+###
 ---
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/chezca-v/chezca-v/output/snake.svg" alt="Snake animation" />
+
+###
 
 ⭐ Thanks for stopping by my profile — feel free to explore, fork, or collaborate!
