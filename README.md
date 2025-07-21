@@ -1,5 +1,5 @@
-<h1 align="left">👋 Hi there, I am Franchezca Vida Banayad!</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=DejaVu+sans+mono&weight=900&size=35&pause=1000&color=E67144&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Franchezca+Vida+Banayad;" />
+<h1 align="left">👋 Hi there, I am Franchezca Vida Banayad! <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Franchezca+Vida+Banayad+%F0%9F%92%96;Freelance+Web+Dev+%7C+Future+Data+Engineer;Let%27s+build+something+cute+%F0%9F%A7%B0" />
+</h1>
 
 <h4 align="left">🚀 Freelance Web Developer | 💻 Aspiring Software & Data Engineer<br>📍 Manila, Philippines | 📬 franchezca.bnyd@gmail.com<br><br>I enjoy building clean, simple, and impactful web apps. I’m passionate about learning, collaborating, and shipping real solutions.</h4>
 
