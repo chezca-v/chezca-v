@@ -61,4 +61,6 @@
 
 ###
 
-⭐ Thanks for stopping by my profile — feel free to explore, fork, or collaborate!
+⭐ Feel free to explore, fork, or collaborate! 
+
+📩 Let’s connect if you're looking for a driven and detail-oriented contributor to your team or project!
