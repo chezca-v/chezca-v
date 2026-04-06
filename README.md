@@ -40,6 +40,8 @@
 - Data analytics workflows with Python
 - Front End Frameworks (React, Vue)
 - Backend Languages (PHP, Java)
+  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chezca-v.chezca-v)
 
 ## 📌 Let's Connect
 <div align="center">
